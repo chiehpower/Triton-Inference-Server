@@ -1,2 +1,2 @@
-# Triton-Inference-Server
-Move it from Setup Deep Learning
+# Triton Inference Server
+I will move the documents from Setup-deeplearning-tools into this repository, and update at here.
